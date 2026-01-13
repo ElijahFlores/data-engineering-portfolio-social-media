@@ -15,11 +15,10 @@ A production-grade data engineering portfolio demonstrating:
 - **Storage**: Parquet (optimized columnar format)
 
 ## Key Features Demonstrated
-1. **Partitioned Tables** by org_id and date
-2. **Materialized Views** for sub-second queries
-3. **Dynamic RLS** based on user context
-4. **Audit Logging** for compliance
-5. **Tenant Isolation** at database level
+1. **Materialized Views** for sub-second queries
+2. **Dynamic RLS** based on user context
+3. **Audit Logging** for compliance
+4. **Tenant Isolation** at database level
 
 ## Run Locally
 ```bash
