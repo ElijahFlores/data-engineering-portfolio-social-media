@@ -23,9 +23,9 @@ A production-grade data engineering portfolio demonstrating:
 ## Run Locally
 ```bash
 pip install -r requirements.txt
-python generate_data.py
-python etl_pipeline.py
-streamlit run dashboard.py
+python src/generate_data.py
+python src/etl_pipeline.py
+streamlit run src/dashboard.py
 ```
 
 ## Performance Metrics
